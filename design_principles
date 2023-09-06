@@ -19,4 +19,4 @@ Design Principle
 Depend upon abstractions. Do not depend upon concrete classes.
 
 Principle of Least Knowledge -
-talk only to your immediate friends.
+Talk only to your immediate friends.
