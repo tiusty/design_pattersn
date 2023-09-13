@@ -20,3 +20,6 @@ Depend upon abstractions. Do not depend upon concrete classes.
 
 Principle of Least Knowledge -
 Talk only to your immediate friends.
+
+Single Responsibility
+A class should have only one reason to change
